@@ -1,1 +1,1 @@
-# Support-Vectoe-Machine
+# Support-Vector-Machine
